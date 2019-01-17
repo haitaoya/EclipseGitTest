@@ -5,7 +5,7 @@ public class BmwTrunk_s implements Trunk{
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
-		System.out.println("bmw卡车启动");
+		System.out.println("宝马卡车启动");
 	}
 
 }
