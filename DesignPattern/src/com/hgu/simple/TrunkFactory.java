@@ -21,7 +21,7 @@ public class TrunkFactory {
 		case "大众":
 			return new DazTrunk();
 		default:
-			throw new RuntimeException("没有所需求的车，可能在火星hhhh"); 
+			throw new RuntimeException("没有所需求的车，可能在火星hhh"); 
 		}
 	}
 }
